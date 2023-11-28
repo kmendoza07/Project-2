@@ -457,7 +457,7 @@
    <widget class="QPushButton" name="buttonStop">
     <property name="geometry">
      <rect>
-      <x>490</x>
+      <x>520</x>
       <y>20</y>
       <width>131</width>
       <height>41</height>

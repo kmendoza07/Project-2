@@ -1,5 +1,5 @@
-from guiGlockenspiel import *
-from logicGlockenspiel import *
+from guiPiano import *
+from logicPiano import *
 def main():
     application = QApplication([])
     window = Logic()
