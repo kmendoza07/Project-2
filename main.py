@@ -1,5 +1,5 @@
-from guiPiano import *
 from logicPiano import *
+
 def main():
     application = QApplication([])
     window = Logic()
@@ -9,17 +9,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-if __name__ == '__main__':
-    main()
-# def print_hi(name):
-#     # Use a breakpoint in the code line below to debug your script.
-#     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-#
-#
-# # Press the green button in the gutter to run the script.
-# if __name__ == '__main__':
-#     print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
